@@ -1,0 +1,3 @@
+- pipeline: rbofinmymh
+  refs:
+  - refs/heads/master
